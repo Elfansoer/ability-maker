@@ -1,0 +1,7 @@
+"DOTAHeroes"
+{
+	"npc_dota_hero_chaos_knight"
+	{
+		"Ability1"					"chaos_knight_chaos_bolt_lua"
+	}
+}

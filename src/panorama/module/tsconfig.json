@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "lib": ["es2017"],
+        "rootDir": ".",
+        "outFile": "../../../content/panorama/scripts/custom_game/module.js",
+        "types": ["@moddota/panorama-types"],
+        "composite": true,
+        "strict": true
+    },
+    "include": ["**/*.ts"]
+}

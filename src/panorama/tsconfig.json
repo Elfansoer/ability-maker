@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "lib": ["es2017"],
+        "rootDir": ".",
+        "strict": true,
+        "composite": true
+    },
+    "references": [
+        {
+            "path": "module"
+        },
+        {
+            "path": "shared"
+        },
+        {
+            "path": "bundles/hud"
+        }
+    ],
+    "files": []
+}

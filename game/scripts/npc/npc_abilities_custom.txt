@@ -1,0 +1,6 @@
+#base "abilities/ability_maker.kv"
+#base "abilities/chaos_knight_chaos_bolt_lua.kv"
+
+"DOTAAbilities"
+{
+}
